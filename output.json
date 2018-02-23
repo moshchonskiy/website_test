@@ -1,0 +1,41 @@
+{
+    "yahoo.com": {
+        "resolution_time": 1.0383291244506836,
+        "ip_connect_time": 0.12157082557678223,
+        "ip": "188.125.80.144",
+        "redirects": 1,
+        "get_content_time": 1.5780079364776611,
+        "http_code": 200
+    },
+    "amazon.com": {
+        "resolution_time": 0.9358751773834229,
+        "ip_connect_time": 0.04549813270568848,
+        "ip": "54.192.47.250",
+        "redirects": 1,
+        "http_code": 405
+    },
+    "cnn.com": {
+        "resolution_time": 1.757524013519287,
+        "ip_connect_time": 0.12139701843261719,
+        "ip": "151.101.65.67",
+        "redirects": 2,
+        "get_content_time": 1.7011487483978271,
+        "http_code": 200
+    },
+    "msn.com": {
+        "resolution_time": 0.9544827938079834,
+        "ip_connect_time": 0.01512598991394043,
+        "ip": "204.79.197.203",
+        "redirects": 1,
+        "get_content_time": 0.8311152458190918,
+        "http_code": 200
+    },
+    "ebay.com": {
+        "resolution_time": 1.6077449321746826,
+        "ip_connect_time": 0.014524221420288086,
+        "ip": "23.59.121.151",
+        "redirects": 2,
+        "get_content_time": 2.0099151134490967,
+        "http_code": 200
+    }
+}
